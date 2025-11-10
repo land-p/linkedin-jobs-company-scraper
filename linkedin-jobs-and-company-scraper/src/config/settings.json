@@ -1,0 +1,5 @@
+{
+  "proxies": ["http://127.0.0.1:8080"],
+  "timeout": 10,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+}
